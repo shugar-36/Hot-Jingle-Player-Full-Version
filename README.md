@@ -232,3 +232,6 @@ This repository serves as the official landing page for Hot Jingle Player. The s
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Hot Jingle Player today!**
+
+---
+**Last updated:** 2026-09-11 11:04:58 UTC
